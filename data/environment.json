@@ -1,0 +1,31 @@
+{
+  "snapshot_date": "2026-11-14",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "gpu_memory_mib_reported": 32607,
+  "gpu_power_limit_w": 600,
+  "nvidia_driver": "616.92",
+  "os": "Windows 11 Pro, build 26200",
+  "cpu": "AMD Ryzen 7 9800X3D",
+  "host_ram_gib_installed_nominal": 128,
+  "python": "3.12.10",
+  "yasakani_dependencies": {"numpy": "2.5.4", "tokenizers": "0.23.3", "jinja2": "3.1.6"},
+  "yasakani": {
+    "release": "0.1.0",
+    "source_commit": "0205f0624e698693e186cd54430503b6731258ce",
+    "yskn_dll_sha256": "0f5d973b791c8d66034d87bdfc7f2c018718dc0e851b9a6ee6dc1eb275150bbb",
+    "harness_python_version": "0.2.0.dev0",
+    "harness_zip_sha256": "a0e1cc1a19be3c8523fd45a9b1a2e46d8007e3483e7061ec744c93c1ed1f54ca"
+  },
+  "ninfer": {
+    "release": "v1.2.5-dspine.5",
+    "source_commit": "2d919071b7e4feaab6486694b994232dcc145074",
+    "build": "MSVC 19.44, CUDA 13.3.33, sm_120a",
+    "ninfer_serve_sha256": "e02c18a562e85d34eb3969c92031e9490bb831598343dda4cacb41537dfd378a",
+    "ninfer_ops_sha256": "daa509488e8fb27173938dd0a23218f0c94bc9cda5a596a679a066b81fa9c3da",
+    "chat_template_sha256": "951dee264974702eadecee83366227992a1f16ab7cd00611bec0f55018c43985",
+    "weights": "qwen27-dspine-nvfp4-tables.v3.ninfer",
+    "weights_sha256": "0b1fa983561d9ed93ec31cccc312e0a7b75761677f3437b665fe283c464e98ea",
+    "legacy_lab_ninfer_serve_sha256": "2ea2453287785c2364911726c3e3445c1681777af94cdcaea5fc60a1abf8fa2f",
+    "legacy_lab_ninfer_ops_sha256": "dcf50eff04b52737419e1794506f65a9af652989fe4d76caebe60f048e6e0b8e"
+  }
+}

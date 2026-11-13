@@ -1,0 +1,14 @@
+{
+  "LICENSE": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a",
+  "NOTICE": "a48f63c844b1d7bd63a613952b3c25d2725af3cc4ac2dd6d34c06a7ab7d2ad43",
+  "bdraft2_k8.shead": "b412bdcf949fe372a3a452316c5f1c80e39f38845efd69a6b623f52a73066620",
+  "bdraft2_k8.yskn": "631fa2ae75029897377837910227ec5ef19ce529515626049819e9367fdb53cc",
+  "chat_template.jinja": "c3cf9e34abf4f9e36c2d72165aa9c132d3e2a725b6c2586aaa3a8af9d7a81041",
+  "config.json": "191e0af232104ed8b65258cf3fb2b842e288008baca7633c11b82a1ac7203aab",
+  "generation_config.json": "e70c136c1b78ddc1fb0905bac8e733a4dc448d4f852a5dd75143fffc70be550e",
+  "kvq_u5.bin": "a4760d46ecb8869bfdd808b01994cb65cd9b245c3c3eadd930a5b2bab2ea7570",
+  "qwen38_27b_speed.yskn": "3ba17a76871a2b5e86fb1d01ab677e6b35ff5ccc27d4f03ad941501e3319d1ca",
+  "selfcheck.json": "3e5efb03ecc2dec1c6fce4c9b87ee48d4e43ce84a074a8d3591eb3bc3ddb0ab6",
+  "tokenizer.json": "0997f410c57a1f4e53b09e4be8f4a172d90edd9564368fb0847030937229b9f3",
+  "tokenizer_config.json": "b11349aafa7cdc6a320767cf7ceb29ed82f7eda5d65e8e0819e76f0ce947bf27"
+}

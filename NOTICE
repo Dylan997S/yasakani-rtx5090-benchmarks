@@ -1,0 +1,19 @@
+RTX 5090 Benchmark Snapshot
+Copyright 2026 Dylan Sun
+
+The benchmark client, local workloads and repository documentation are
+distributed under Apache-2.0. The per-request snapshot includes measured
+statistics transcribed from the YASAKANI project and identifies them with
+the suite name official-jsonl-upstream.
+
+YASAKANI
+Copyright 2026 the YASAKANI authors
+The upstream project is Apache-2.0. This repository fetches the official
+JSONL fixture from a fixed upstream revision for replay. Upstream code,
+fixtures and model files are not included in the snapshot.
+https://github.com/yasakani-dev/yasakani/tree/0205f0624e698693e186cd54430503b6731258ce
+
+NInfer is by Neroued. The Windows port is by headpiece747. The DSpine
+method and draft checkpoint are from Tencent. The NVFP4 DSpine integration
+used here is from Dylan997S. Refer to the pinned releases and their
+notices for third-party software and model license terms.
